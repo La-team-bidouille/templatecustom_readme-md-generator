@@ -1,0 +1,12 @@
+{
+  "name": "templatecustom_readme-md-generator",
+  "version": "1.0.0",
+  "description": "Template custom for La team bidouille",
+  "scripts": {},
+  "keywords": [
+    "template",
+    "readme-md-generator"
+  ],
+  "author": "La team bidouille",
+  "license": "MIT"
+}
